@@ -4,11 +4,11 @@
     "slug": "myProfile_react",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/floral.png",
+    "icon": "./assets/porfolio-copy.png",
     "splash": {
-      "image": "./assets/aida.jpg",
+      "image": "./assets/porfolio.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#000000"
     },
     "updates": {
       "fallbackToCacheTimeout": 0
